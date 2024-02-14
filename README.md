@@ -1,1 +1,1 @@
-### Azure DataIngestion Quadrant
+### Data Ingestion QDRANT
